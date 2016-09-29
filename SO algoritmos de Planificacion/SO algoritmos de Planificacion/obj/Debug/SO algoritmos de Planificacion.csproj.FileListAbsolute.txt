@@ -1,0 +1,9 @@
+c:\users\jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\bin\Debug\SO algoritmos de Planificacion.exe.config
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\bin\Debug\SO algoritmos de Planificacion.exe
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\bin\Debug\SO algoritmos de Planificacion.pdb
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\obj\Debug\SO algoritmos de Planificacion.csprojResolveAssemblyReference.cache
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\obj\Debug\SO_algoritmos_de_Planificacion.Form1.resources
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\obj\Debug\SO_algoritmos_de_Planificacion.Properties.Resources.resources
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\obj\Debug\SO algoritmos de Planificacion.csproj.GenerateResource.Cache
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\obj\Debug\SO algoritmos de Planificacion.exe
+C:\Users\Jason\documents\visual studio 2015\Projects\SO algoritmos de Planificacion\SO algoritmos de Planificacion\obj\Debug\SO algoritmos de Planificacion.pdb
